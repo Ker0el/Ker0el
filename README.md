@@ -15,9 +15,6 @@
 <img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,kali,html,css,js,ts,vue,php,lua,visualstudio,vscode,pycharm,qt,ps,ae,au,windows,linux,unreal,unity,wordpress&theme=light" />
 </p>
 
-[![Star's GitHub stats](https://github-readme-stats.vercel.app/api?username=380561016&show_icons=true&theme=tokyonight)]([https://b23.tv/iEJTnPp](https://space.bilibili.com/177308205))
-
-
 <img src="https://moe-counter.glitch.me/get/@star?theme=rule34">
 
 <p align="center">
