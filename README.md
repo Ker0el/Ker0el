@@ -6,8 +6,6 @@
 
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=380561016&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
