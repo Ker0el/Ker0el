@@ -22,7 +22,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=380561016&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,kali,html,css,js,ts&theme=dark" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,kali,html,css,js,ts&theme=light" />
 </p>
 
 
