@@ -12,7 +12,7 @@
 <br/>
 
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,kali,html,css,js,ts,vue,php,lua,visualstudio,vscode,pycharm,qt,ps,ae,au,windows,linux,unreal,unity,wordpress&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,html,css,js,ts,vue,php,lua,visualstudio,vscode,pycharm,qt,ps,ae,au,windows,linux,kali,unreal,unity,wordpress&theme=light" />
 </p>
 
 <img src="https://moe-counter.glitch.me/get/@star?theme=rule34">
