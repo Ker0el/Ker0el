@@ -16,9 +16,6 @@
 <br/>
 
 
-<p><img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,html,css,js,ts,vue,windows,kali,unreal,unity&theme=light" /></p>
-
-
 </p>
 
 
