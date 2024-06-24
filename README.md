@@ -8,7 +8,7 @@
 <a href="https://space.bilibili.com/177308205"><img src="https://img.shields.io/badge/哔哩哔哩-Star-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-380561016-red?logo=tencentqq" />
   
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=380561016&show_icons=true&theme=radical" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=starxnx&show_icons=true&theme=radical" />
 <br/>
 
 
