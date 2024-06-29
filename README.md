@@ -1,7 +1,7 @@
 ## 
 
 <div id="title" align=center> 
-热爱网络安全,喜欢研究Windows内核,远控免杀,游戏逆向,软件破解,Web渗透相关技术
+热爱网络安全,喜欢研究Windows内核,远控免杀,游戏逆向,安卓逆向,Web渗透相关技术
 <p>
 
 <a href="https://github.com/380561016"><img src="https://img.shields.io/badge/GitHub-Ker0el-blue?logo=github"            /></a>
