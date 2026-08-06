@@ -28,6 +28,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte" alt="quote"/>
-</div>
+<!-- QUOTE:START --><div align="center"><i>「在这个世界上别太依赖任何人，因为当你在黑暗中挣扎时，连你的影子都会离开你。」</i></div><!-- QUOTE:END -->

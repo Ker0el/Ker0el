@@ -1,0 +1,32 @@
+name: Update Quote
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch quote
+        run: |
+          QUOTE=$(curl -s 'https://uapis.cn/api/v1/saying' | sed 's/.*"text":"\([^"]*\)".*/\1/')
+          echo "quote=$QUOTE" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s|<!-- QUOTE:START -->.*<!-- QUOTE:END -->|<!-- QUOTE:START --><div align=\"center\"><i>「${{ env.quote }}」</i></div><!-- QUOTE:END -->|" README.md
+
+      - name: Commit & push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m '💬 Update daily quote'
+          git push
