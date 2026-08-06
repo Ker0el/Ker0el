@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>:speech_balloon: 「在这个世界上别太依赖任何人，因为当你在黑暗中挣扎时，连你的影子都会离开你。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「没有事是绝对的。但这句话不已经是绝对的了吗？」</i></div><!-- QUOTE:END -->
