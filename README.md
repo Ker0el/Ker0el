@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ker0el+%F0%9F%91%8B;Game+Developer;Always+Building+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Star+%F0%9F%91%8B;Game+Developer;Always+Building+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ker0el&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Star&style=for-the-badge&color=6366f1" alt="Profile Views"/>
 </div>
 
 ---
