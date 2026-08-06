@@ -1,35 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Star+%F0%9F%91%8B;Game+Developer;Always+Building+%F0%9F%8E%AE" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ker0el&label=Profile+Views&color=6366f1&style=flat" alt="Profile Views"/>
-</div>
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### 🎮 Game Engines
-
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-6-000000?style=flat-square&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-
-### 💻 Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=2000&color=7C8CA0&center=true&vCenter=true&width=500&lines=Hello,+I'm+Star+%F0%9F%91%8B;Game+Developer" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Ker0el&label=views&color=a0a0a0&style=flat" alt="views"/>
 </div>
 
 ---
 
+### 👤 About
+
+我是一名游戏开发爱好者，专注于游戏引擎与实时渲染技术。
+
+---
+
+### 🛠 Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+---
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte" alt="quote"/>
 </div>
