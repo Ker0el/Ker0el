@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Star&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ker0el&label=Profile+Views&color=6366f1&style=flat" alt="Profile Views"/>
 </div>
 
 ---
@@ -31,5 +31,5 @@
 ---
 
 <div align="center">
-  <i>「不积跬步，无以至千里」</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
 </div>
