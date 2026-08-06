@@ -8,13 +8,15 @@
 
 ---
 
-### 👤 About
+### :bust_in_silhouette: About
 
-🎮 来自中国的独立游戏开发者，热衷于游戏引擎探索、实时渲染与软件逆向工程。
+> :video_game: 来自中国的独立游戏开发者，热衷于游戏引擎探索、实时渲染与软件逆向工程。
+>
+> :video_game: An indie game developer from China, passionate about game engines, real-time rendering & reverse engineering.
 
 ---
 
-### 🛠 Stack
+### :hammer_and_wrench: Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
@@ -28,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>💬 「在这个世界上别太依赖任何人，因为当你在黑暗中挣扎时，连你的影子都会离开你。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>:speech_balloon: 「在这个世界上别太依赖任何人，因为当你在黑暗中挣扎时，连你的影子都会离开你。」</i></div><!-- QUOTE:END -->
