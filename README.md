@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「看得见的世界和看不见的世界，让我痛苦的事物总是由看不见的世界而来。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「任何人都可以变得狠毒，只要你经历过嫉妒。」</i></div><!-- QUOTE:END -->
