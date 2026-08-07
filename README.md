@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「任何人都可以变得狠毒，只要你经历过嫉妒。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只是有一点，我不想失去你。」</i></div><!-- QUOTE:END -->
