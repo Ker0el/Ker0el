@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「只是有一点，我不想失去你。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「最足以显示一个人性格的，莫过于他所嘲笑的是什么东西」</i></div><!-- QUOTE:END -->
