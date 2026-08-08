@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「做不到的话，不过就是一死 。但是，赢了就能活下去，要是不战斗就赢不了。」</i></div><!-- QUOTE:END -->
