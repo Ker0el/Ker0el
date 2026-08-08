@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我李逍遥要做天下第一大侠,我要锄强扶弱,我要名流青史。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「纵使失去了一切，倘若有半点迷茫的话，也舍不得放弃，惟有真实的自己才最重要！」</i></div><!-- QUOTE:END -->
