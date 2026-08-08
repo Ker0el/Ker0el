@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「做不到的话，不过就是一死 。但是，赢了就能活下去，要是不战斗就赢不了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我李逍遥要做天下第一大侠,我要锄强扶弱,我要名流青史。」</i></div><!-- QUOTE:END -->
