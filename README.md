@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「身旁的体温 既温暖又悲伤的安全感」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「对于你，我永远都是你的朋友。然后，总有一天能告诉你，我是你的朋友。」</i></div><!-- QUOTE:END -->
