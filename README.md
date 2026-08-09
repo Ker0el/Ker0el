@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「齿轮总有卡住的地方,如果勉强让它动起来,最终是要让一切都化为泡影,还是要从头来过,恢复正常,努力追回落后的部分,你只是害怕,害怕从头来过!」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「谁看见过风？我和你，都不曾看见过。」</i></div><!-- QUOTE:END -->
