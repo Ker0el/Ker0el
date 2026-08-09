@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「纵使失去了一切，倘若有半点迷茫的话，也舍不得放弃，惟有真实的自己才最重要！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「身旁的体温 既温暖又悲伤的安全感」</i></div><!-- QUOTE:END -->
