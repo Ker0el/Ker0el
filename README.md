@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「已经无法回来的东西，得到和舍弃都很痛苦。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「所谓的人类，是连短短十分钟也等不起的！」</i></div><!-- QUOTE:END -->
