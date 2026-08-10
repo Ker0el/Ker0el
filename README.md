@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「谁看见过风？我和你，都不曾看见过。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「假若真心相爱，绝对会情不自禁。」</i></div><!-- QUOTE:END -->
