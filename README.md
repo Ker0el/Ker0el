@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「假若真心相爱，绝对会情不自禁。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「何时何地，你都要明白，你是活给自己看的，别把别人的评价看得太重，凡事只要于心无愧，就不必计较太多。」</i></div><!-- QUOTE:END -->
