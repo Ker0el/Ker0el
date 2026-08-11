@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「所谓的人类，是连短短十分钟也等不起的！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我是绝对的开始的王，英雄中的英雄王，吉尔伽美什。」</i></div><!-- QUOTE:END -->
