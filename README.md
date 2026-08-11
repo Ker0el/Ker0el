@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「后悔是一种耗费精神的情绪，后悔是比损失更大的损失，比错误更大的错误，所以不要后悔。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「等某天，雨水停歇，泪水滴落，就在土地上扎根吧，在那之前就和雨一同如浮云般流浪。」</i></div><!-- QUOTE:END -->
