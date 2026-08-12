@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「在回忆里留下微笑是为了不让你哭泣...」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我除了投三分，就什么都没有了⋯⋯」</i></div><!-- QUOTE:END -->
