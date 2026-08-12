@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「等某天，雨水停歇，泪水滴落，就在土地上扎根吧，在那之前就和雨一同如浮云般流浪。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「与恶魔最接近的东西，是人类。」</i></div><!-- QUOTE:END -->
