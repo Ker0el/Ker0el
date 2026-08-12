@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「与恶魔最接近的东西，是人类。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我把眼泪送出去了……」</i></div><!-- QUOTE:END -->
