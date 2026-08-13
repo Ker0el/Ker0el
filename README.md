@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我除了投三分，就什么都没有了⋯⋯」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「年华无多时，恋爱吧男子！」</i></div><!-- QUOTE:END -->
