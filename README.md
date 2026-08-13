@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「每个人都会突然喜欢上一个人，就算没有勇气，也会踏上这条艰难的道路吧。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只有努力攀登顶峰的人，才能把顶峰踩在脚下」</i></div><!-- QUOTE:END -->
