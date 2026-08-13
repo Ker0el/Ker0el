@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「只有努力攀登顶峰的人，才能把顶峰踩在脚下」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「真相只有一个！」</i></div><!-- QUOTE:END -->
