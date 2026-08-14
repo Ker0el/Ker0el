@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「一心想要通过圣杯改变历史的人，简直就是对创造历史的英雄们的侮辱！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「低头不是认输，是要看清自己的路；昂头不是骄傲，是要看清自己的天空。」</i></div><!-- QUOTE:END -->
