@@ -10,7 +10,7 @@
 
 ### :bust_in_silhouette: About
 
-> :video_game: 来自中国的独立游戏开发者，热衷于游戏引擎探索与软件逆向工程，还有网站开发，喜欢用AI做一点有意思的小东西。
+> :video_game: 来自中国的独立游戏开发者，热衷于游戏引擎探索与软件逆向工程.
 >
 > :video_game: An indie game developer from China, passionate about game engines & reverse engineering.
 
