@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「低头不是认输，是要看清自己的路；昂头不是骄傲，是要看清自己的天空。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「自古英雄出少年，似水红颜惹人怜。」</i></div><!-- QUOTE:END -->
