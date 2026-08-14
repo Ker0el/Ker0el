@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「自古英雄出少年，似水红颜惹人怜。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「除了爱你，我什么都可以。」</i></div><!-- QUOTE:END -->
