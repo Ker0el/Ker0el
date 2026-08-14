@@ -10,9 +10,9 @@
 
 ### :bust_in_silhouette: About
 
-> :video_game: 来自中国的独立游戏开发者，热衷于游戏引擎探索与软件逆向工程.
+> :video_game: 独立游戏开发者 · 软件逆向工程 · Web安全爱好者
 >
-> :video_game: An indie game developer from China, passionate about game engines & reverse engineering.
+> :video_game: Indie Game Developer · Reverse Engineer · Web Security Enthusiast
 
 ---
 
