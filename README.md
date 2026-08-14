@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「真相只有一个！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「一心想要通过圣杯改变历史的人，简直就是对创造历史的英雄们的侮辱！」</i></div><!-- QUOTE:END -->
