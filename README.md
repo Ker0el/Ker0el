@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「除了爱你，我什么都可以。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「既然如此，就再努力一次吧。别在这里愁眉不展，也不要再自欺欺人，重新来过！」</i></div><!-- QUOTE:END -->
