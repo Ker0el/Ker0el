@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「有些真相注定是要小心翼翼深埋心底的，因为答案揭晓的那一刻，也是灰飞烟灭的开始。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「真心等你的人，他总会真心等下去，不愿意等你的人，总是一转身就牵了别人的手。」</i></div><!-- QUOTE:END -->
