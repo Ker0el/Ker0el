@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「真心等你的人，他总会真心等下去，不愿意等你的人，总是一转身就牵了别人的手。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「没有什么东西是永恒的，如果非要说有的话，大概就是“失去”本身吧。」</i></div><!-- QUOTE:END -->
