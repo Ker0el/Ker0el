@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「既然如此，就再努力一次吧。别在这里愁眉不展，也不要再自欺欺人，重新来过！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「有些真相注定是要小心翼翼深埋心底的，因为答案揭晓的那一刻，也是灰飞烟灭的开始。」</i></div><!-- QUOTE:END -->
