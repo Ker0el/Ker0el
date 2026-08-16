@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「滚圆的东西咕噜咕噜往哪滚去都不费力，四棱的东西想要让他滚，不但费力还很痛的。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只要知道你还活在这个世上，我就可以了无牵挂。」</i></div><!-- QUOTE:END -->
