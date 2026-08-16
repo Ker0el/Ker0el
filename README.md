@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「没有什么东西是永恒的，如果非要说有的话，大概就是“失去”本身吧。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「对于为何要学习某种东西抱有疑问，是理所当然的。唯有当这个疑问解除了，才会产生求学的目的，也才能通往理解数学本质之路。」</i></div><!-- QUOTE:END -->
