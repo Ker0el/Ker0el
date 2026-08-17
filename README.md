@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「无论在什么地方，什么时候，在我们的头顶都是同样悠远的天穹，就好像是永远都无法分开的羁绊。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「最真实的感情，是没有打扮的自然。」</i></div><!-- QUOTE:END -->
