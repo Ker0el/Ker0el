@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「在实现梦想之前，我要不断挑战。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不吃饭则饥，不读书则愚」</i></div><!-- QUOTE:END -->
