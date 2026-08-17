@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不吃饭则饥，不读书则愚」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「努力不一定能实现梦想，但是曾经努力过的事实却足以安慰自己。」</i></div><!-- QUOTE:END -->
