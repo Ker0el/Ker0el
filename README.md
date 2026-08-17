@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「最真实的感情，是没有打扮的自然。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「在实现梦想之前，我要不断挑战。」</i></div><!-- QUOTE:END -->
