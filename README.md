@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「给你一句忠告…世上有些事最好还是让它永远成迷... 」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「别觉得你被世界抛弃了，世界根本没空搭理你。」</i></div><!-- QUOTE:END -->
