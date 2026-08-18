@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「被隐藏的所谓真实 不管在何种场合下 大多都是残酷的」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「给你一句忠告…世上有些事最好还是让它永远成迷... 」</i></div><!-- QUOTE:END -->
