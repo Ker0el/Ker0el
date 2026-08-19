@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「别觉得你被世界抛弃了，世界根本没空搭理你。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「倘若只是为了驱赶心中的寂寞，找谁都可以的。」</i></div><!-- QUOTE:END -->
