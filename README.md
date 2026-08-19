@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「看似美好的东西，往往藏着陷阱。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「世界上没有一个人能代替另一个人。」</i></div><!-- QUOTE:END -->
