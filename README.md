@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「最近困扰我的是小小的分别，总会带来一丝寂寞。短暂的相遇和分别那一分一秒的时间都让我想要无比珍惜。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「看似美好的东西，往往藏着陷阱。」</i></div><!-- QUOTE:END -->
