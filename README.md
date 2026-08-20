@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「世界上没有一个人能代替另一个人。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「这么多年过去，网友变成了朋友，朋友变成了网友。」</i></div><!-- QUOTE:END -->
