@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我的生活就像在白夜里行走。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「 就这点程度，还不足以折断我的灵魂。」</i></div><!-- QUOTE:END -->
