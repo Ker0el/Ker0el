@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「世上本没男神，装的人多了，也就有了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「山吹花开千百重，堪怜竟无籽一粒。」</i></div><!-- QUOTE:END -->
