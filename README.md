@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「山吹花开千百重，堪怜竟无籽一粒。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只要有想见面的人，自己就不再是孤单一人。」</i></div><!-- QUOTE:END -->
