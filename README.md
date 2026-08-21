@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「虽然至今为止的道路绝非一片坦途，但想到正因为活着才有机会感受到痛楚，我就成功克服了种种困难。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「世上本没男神，装的人多了，也就有了。」</i></div><!-- QUOTE:END -->
