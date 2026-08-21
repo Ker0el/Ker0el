@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「只要有想见面的人，自己就不再是孤单一人。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不抵抗就不会死，为什么就是不明白！？」</i></div><!-- QUOTE:END -->
