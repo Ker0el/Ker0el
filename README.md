@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「真正的危机不是机器人像人一样思考，而是人像机器一样思考。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。」</i></div><!-- QUOTE:END -->
