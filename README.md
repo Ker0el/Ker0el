@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「有着似曾相识后发际的他，却说着陌生人一般的话语。总觉得...有点想哭。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「还有什么不快乐？」</i></div><!-- QUOTE:END -->
