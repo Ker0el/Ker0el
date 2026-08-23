@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「书山有路勤为径，学海无涯苦作舟」</i></div><!-- QUOTE:END -->
