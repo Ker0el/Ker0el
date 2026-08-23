@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「青春，青色之春，乘风驰骋，在内心中像暴风般席卷而过。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。」</i></div><!-- QUOTE:END -->
