@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「每种首创事业的成功，最要紧的还是所有当事人的基本训练。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「青春，青色之春，乘风驰骋，在内心中像暴风般席卷而过。」</i></div><!-- QUOTE:END -->
