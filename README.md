@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「横亘在我们面前的是那沉重的人生和漫长的时间，让人望而却步。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「虽然不想承认，都是因为年轻犯下的错啊。」</i></div><!-- QUOTE:END -->
