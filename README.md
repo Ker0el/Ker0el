@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「伤害别人的人，就有要被伤害的觉悟。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只能在回忆里看着你，希望记忆中的你不要离我远去。」</i></div><!-- QUOTE:END -->
