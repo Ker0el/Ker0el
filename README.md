@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「书山有路勤为径，学海无涯苦作舟」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「伤害别人的人，就有要被伤害的觉悟。」</i></div><!-- QUOTE:END -->
