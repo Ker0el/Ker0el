@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「虽然不想承认，都是因为年轻犯下的错啊。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「这是初次见面时说的话吧？」</i></div><!-- QUOTE:END -->
