@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「这是初次见面时说的话吧？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「这无关经验和立场。」</i></div><!-- QUOTE:END -->
