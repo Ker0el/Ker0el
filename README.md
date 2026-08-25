@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「任何人都可以变得狠毒，只要你经历过嫉妒。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「梦想是什么，梦想是现实的延续；现实是什么，现实是梦想的终结。」</i></div><!-- QUOTE:END -->
