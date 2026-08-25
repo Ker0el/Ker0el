@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「这无关经验和立场。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「任何人都可以变得狠毒，只要你经历过嫉妒。」</i></div><!-- QUOTE:END -->
