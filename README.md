@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「守住一方平安，尽力而为，问心无愧就好。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「用卑鄙手法欺骗对手,到底有什么益处?」</i></div><!-- QUOTE:END -->
