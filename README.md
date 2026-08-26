@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「梦想是什么，梦想是现实的延续；现实是什么，现实是梦想的终结。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「毁灭一个人只要一句话，培植一个人却要千句话，请你口下留情」</i></div><!-- QUOTE:END -->
