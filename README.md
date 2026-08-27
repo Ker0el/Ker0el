@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「在这鸦雀无声的地方集中精力学习吧。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「没有光明是不幸的吗？需要光明才是真正的不幸。」</i></div><!-- QUOTE:END -->
