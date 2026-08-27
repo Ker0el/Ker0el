@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「用卑鄙手法欺骗对手,到底有什么益处?」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「在这鸦雀无声的地方集中精力学习吧。」</i></div><!-- QUOTE:END -->
