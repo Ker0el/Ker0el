@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「没有光明是不幸的吗？需要光明才是真正的不幸。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「回望当初，那时我一定也一直在训练自己迈步，如果有一天，能够走得更稳更远了，就去见她吧。」</i></div><!-- QUOTE:END -->
