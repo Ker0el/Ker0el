@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「回望当初，那时我一定也一直在训练自己迈步，如果有一天，能够走得更稳更远了，就去见她吧。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「相遇了真的是太好了。」</i></div><!-- QUOTE:END -->
