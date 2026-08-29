@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「了解自己真心喜好的东西，认同它并积极乐在其中，这难道不是真正的强大吗？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「工程穷三代，考古毁一生。」</i></div><!-- QUOTE:END -->
