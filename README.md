@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「原谅你逃避过去，但是，至少不要逃避现在和明天。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「无论是网络还是手机，能用来的只是联络而不是交流。」</i></div><!-- QUOTE:END -->
