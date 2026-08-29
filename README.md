@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「工程穷三代，考古毁一生。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「原谅你逃避过去，但是，至少不要逃避现在和明天。」</i></div><!-- QUOTE:END -->
