@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人的心有反面也有正面，不能说有反面就连带认定其正面也失去意义了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「也许你最最喜欢的人已经不存在了，但最最喜欢你的人不是还在吗?这样正负一抵消不就等于了吗？」</i></div><!-- QUOTE:END -->
