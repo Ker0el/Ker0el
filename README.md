@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「无论是网络还是手机，能用来的只是联络而不是交流。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不能害怕未来，不能讨厌世界。」</i></div><!-- QUOTE:END -->
