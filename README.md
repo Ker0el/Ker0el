@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不能害怕未来，不能讨厌世界。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「一息尚存,不容稍懈。」</i></div><!-- QUOTE:END -->
