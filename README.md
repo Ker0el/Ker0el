@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「理所当然的事，只要接受就好了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「所谓长大成人，就是不断聚了散，散了又聚。为了让彼此不会受伤害而保持一个适当的距离。」</i></div><!-- QUOTE:END -->
