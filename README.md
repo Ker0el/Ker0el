@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「机会无处不在，我们要相信自己的力量!」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「正因为单纯，绝望时的反抗才会更激烈。」</i></div><!-- QUOTE:END -->
