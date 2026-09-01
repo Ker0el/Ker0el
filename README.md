@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「为什么喜欢音乐，因为它能替我表达我的悲伤。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「机会无处不在，我们要相信自己的力量!」</i></div><!-- QUOTE:END -->
