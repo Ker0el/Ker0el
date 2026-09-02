@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「也许生存在世间的人们都只是在等待一种偶遇，一种适时的相遇，时间对了，你们便会遇上。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我快要死了，但是，还能成为你的眼睛继续看到未来，你愿意成为我的眼睛，让我相信有未来吗？」</i></div><!-- QUOTE:END -->
