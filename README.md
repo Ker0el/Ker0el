@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「此时此刻一切都是静寂的，只剩下我与你的世界，这就是爱？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「也许生存在世间的人们都只是在等待一种偶遇，一种适时的相遇，时间对了，你们便会遇上。」</i></div><!-- QUOTE:END -->
