@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我快要死了，但是，还能成为你的眼睛继续看到未来，你愿意成为我的眼睛，让我相信有未来吗？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「春蚕到死丝方尽，人至期颐亦不休。一息尚存须努力，留作青年好范畴」</i></div><!-- QUOTE:END -->
