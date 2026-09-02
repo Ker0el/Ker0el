@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「正因为单纯，绝望时的反抗才会更激烈。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「此时此刻一切都是静寂的，只剩下我与你的世界，这就是爱？」</i></div><!-- QUOTE:END -->
