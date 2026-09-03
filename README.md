@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「春蚕到死丝方尽，人至期颐亦不休。一息尚存须努力，留作青年好范畴」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「所谓世界，是指活着的人们。」</i></div><!-- QUOTE:END -->
