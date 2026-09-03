@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「逆境中不自弃，顺境中不张扬」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「但体贴却是每个人手制的，所以很容易被误解，被认为是伪善。」</i></div><!-- QUOTE:END -->
