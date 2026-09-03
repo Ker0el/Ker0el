@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「所谓世界，是指活着的人们。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「如果羽衣狐当了魑魅魍魉之王，老子超越魑魅魍魉之王就是了 。」</i></div><!-- QUOTE:END -->
