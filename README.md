@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果羽衣狐当了魑魅魍魉之王，老子超越魑魅魍魉之王就是了 。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「逆境中不自弃，顺境中不张扬」</i></div><!-- QUOTE:END -->
