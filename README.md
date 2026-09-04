@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「每个人都有跟别人有关、共有某种东西。所以无法自由，正因如此，所以才有趣、才悲伤……才令人怜爱。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我不属于这个时间，我不想走，但我不得不走。」</i></div><!-- QUOTE:END -->
