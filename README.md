@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我不属于这个时间，我不想走，但我不得不走。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人世间 酸甜苦辣 若长良川。」</i></div><!-- QUOTE:END -->
