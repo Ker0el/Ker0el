@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人世间 酸甜苦辣 若长良川。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「到家了，一定要叫醒我，我怕我醒不过来。」</i></div><!-- QUOTE:END -->
