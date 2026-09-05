@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不要祈求生活公平，只需要适应它。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「知冷知热的，才是心；相守相望的，才是眼；不离不弃的，才是情；一生一世的，才是爱。」</i></div><!-- QUOTE:END -->
