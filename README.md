@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「知冷知热的，才是心；相守相望的，才是眼；不离不弃的，才是情；一生一世的，才是爱。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「即便是这样的我也能挺起胸膛帮助到别人，如此活下去便是我最大的梦想。」</i></div><!-- QUOTE:END -->
