@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「即便是这样的我也能挺起胸膛帮助到别人，如此活下去便是我最大的梦想。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人类灵魂的本质是黑暗……」</i></div><!-- QUOTE:END -->
