@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「到家了，一定要叫醒我，我怕我醒不过来。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不要祈求生活公平，只需要适应它。」</i></div><!-- QUOTE:END -->
