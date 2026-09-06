@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人不管出生的时候还是死亡的时候都是一个人，但是，没有那个人是永远一个人站立的，当自己遇到困难的时候最好要学会低头向别人寻求帮哦。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人在步入社会之前，究竟在哪呢？」</i></div><!-- QUOTE:END -->
