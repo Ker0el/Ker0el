@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「再长的路，一步步也能走完；再短的路，不迈开双脚也无法到达。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「没有任何回忆，即使遗忘也好的。」</i></div><!-- QUOTE:END -->
