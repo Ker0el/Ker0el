@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「没有任何回忆，即使遗忘也好的。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。」</i></div><!-- QUOTE:END -->
