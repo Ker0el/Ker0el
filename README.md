@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「最最好的，与最最痛苦的，是一样的。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「你的选择是做或不做，但不做就永远不会有机会」</i></div><!-- QUOTE:END -->
