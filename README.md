@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「最最好的，与最最痛苦的，是一样的。」</i></div><!-- QUOTE:END -->
