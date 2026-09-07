@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「你的选择是做或不做，但不做就永远不会有机会」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「总有一个人会举着戒指对你笑，说着余生请你多指教。」</i></div><!-- QUOTE:END -->
