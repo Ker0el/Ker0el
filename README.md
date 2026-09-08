@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「总有一个人会举着戒指对你笑，说着余生请你多指教。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们要在敌方擅长的地方打败对手，因为这样才够痛快。」</i></div><!-- QUOTE:END -->
