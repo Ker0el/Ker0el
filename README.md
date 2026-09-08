@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「造烛求明，读书求理」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我想保护这个由人类泪水组成的世界」</i></div><!-- QUOTE:END -->
