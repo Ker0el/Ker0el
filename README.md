@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们要在敌方擅长的地方打败对手，因为这样才够痛快。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「造烛求明，读书求理」</i></div><!-- QUOTE:END -->
