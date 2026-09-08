@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我想保护这个由人类泪水组成的世界」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「茂盛的禾苗需要水分；成长的少年需要学习」</i></div><!-- QUOTE:END -->
