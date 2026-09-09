@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「君生我未生，我生君已老。 君恨我生迟，我恨君生早。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「有多少人是为了不让别人看出心事，装出疯疯癫癫，嘻嘻哈哈。」</i></div><!-- QUOTE:END -->
