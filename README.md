@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「所谓的人类，是连短短十分钟也等不起的！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「君生我未生，我生君已老。 君恨我生迟，我恨君生早。」</i></div><!-- QUOTE:END -->
