@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「只要没有放弃，就没有失败!」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「所谓的人类，是连短短十分钟也等不起的！」</i></div><!-- QUOTE:END -->
