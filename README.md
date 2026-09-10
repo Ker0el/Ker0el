@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「谁给我一滴水，我便回报他整个大海」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「过去是无法取回的，已经失去的东西，是无法取回的。」</i></div><!-- QUOTE:END -->
