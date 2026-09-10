@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「过去是无法取回的，已经失去的东西，是无法取回的。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不自由，毋宁死」</i></div><!-- QUOTE:END -->
