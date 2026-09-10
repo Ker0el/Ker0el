@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们别无选择，只能在黑夜的道路上前行。即便四周如白昼一样明亮，也只是不真实的白昼。对此我们早已认命。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「谁给我一滴水，我便回报他整个大海」</i></div><!-- QUOTE:END -->
