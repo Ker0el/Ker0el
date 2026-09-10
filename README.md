@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「有多少人是为了不让别人看出心事，装出疯疯癫癫，嘻嘻哈哈。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们别无选择，只能在黑夜的道路上前行。即便四周如白昼一样明亮，也只是不真实的白昼。对此我们早已认命。」</i></div><!-- QUOTE:END -->
