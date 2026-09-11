@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不自由，毋宁死」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「来到这个世界上，即使是天使都会做坏事。」</i></div><!-- QUOTE:END -->
