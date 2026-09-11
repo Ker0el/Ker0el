@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「勇于接受别人的批评，正好可以调整自己的缺点」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人生的每一步，都可能成为另一个错误；可却不能因为错误，而不迈出下一步」</i></div><!-- QUOTE:END -->
