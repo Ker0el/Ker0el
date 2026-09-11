@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人生的每一步，都可能成为另一个错误；可却不能因为错误，而不迈出下一步」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「这个世界上确实有很多事情，不管你多么努力都实现不了，正因如此，必须努力的时候绝对不能踌躇。」</i></div><!-- QUOTE:END -->
