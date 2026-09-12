@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「这个世界上确实有很多事情，不管你多么努力都实现不了，正因如此，必须努力的时候绝对不能踌躇。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「雾可以阻挡天空的视线，却不能锁住天空前进的脚步。」</i></div><!-- QUOTE:END -->
