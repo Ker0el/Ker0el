@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「雾可以阻挡天空的视线，却不能锁住天空前进的脚步。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「无论你如何渴望过去，那里都没有你的未来啊！」</i></div><!-- QUOTE:END -->
