@@ -10,7 +10,7 @@
 
 ### :bust_in_silhouette: About
 
-> :video_game: 独立游戏开发者 · 软件逆向工程 · Web安全爱好者
+> :video_game: 独立游戏开发者 · 软件逆向工程 · Web安全爱好者 · AIGC
 >
 > :video_game: Indie Game Developer · Reverse Engineer · Web Security Enthusiast
 
