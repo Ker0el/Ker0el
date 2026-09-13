@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「你走！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「大家不是约好了吗？要一起，活到老爷爷、老奶奶的年纪。在那之前，不是要一直，一直在一起的吗？」</i></div><!-- QUOTE:END -->
