@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果神舍弃了这个世界的话，那么我要拯救这个世界。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「越是得不到的东西，越加美丽。」</i></div><!-- QUOTE:END -->
