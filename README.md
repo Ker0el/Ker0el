@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「一个故事的阅读方法，绝对不只有一种。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「你走！」</i></div><!-- QUOTE:END -->
