@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「伴随着痛苦的经验才能让人牢记在心!」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「纵使失去了一切，倘若有半点迷茫的话，也舍不得放弃，惟有真实的自己才最重要！」</i></div><!-- QUOTE:END -->
