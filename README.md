@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「越是得不到的东西，越加美丽。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「伴随着痛苦的经验才能让人牢记在心!」</i></div><!-- QUOTE:END -->
