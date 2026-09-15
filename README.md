@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「粮食补身体，书籍丰富智慧」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我是不会放弃的，只要能见到亚丝娜就算是神我也要打败他.」</i></div><!-- QUOTE:END -->
