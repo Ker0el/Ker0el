@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「君子可寓意于物，但不可留意于物。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我只是一个飞得累了，停下来梳理羽毛的魔法师。」</i></div><!-- QUOTE:END -->
