@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「向很多人传达到自己的音乐时，和很多人心心相印时,音乐或许可以超越语言」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「时间并不存在，存在的只有此刻。」</i></div><!-- QUOTE:END -->
