@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果能够重生的话，我想，我想成为水母。想成为只是在海里自由地摇摇摆摆的水母。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「向很多人传达到自己的音乐时，和很多人心心相印时,音乐或许可以超越语言」</i></div><!-- QUOTE:END -->
