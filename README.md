@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「只是相谈就会开心起来，沉浸在温柔的眼神当中，竭尽全力的思念，悄悄地奉献。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人家怕你，并不是一种福；人家欺你，并不是一种辱」</i></div><!-- QUOTE:END -->
