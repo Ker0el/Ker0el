@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「时间并不存在，存在的只有此刻。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「迷恋着你，我已经失去自我！」</i></div><!-- QUOTE:END -->
