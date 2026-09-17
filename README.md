@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「因为无法再见面，所以要笑着说再见。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只注意自己的人是无法取得成功的.」</i></div><!-- QUOTE:END -->
