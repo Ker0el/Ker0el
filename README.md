@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「只注意自己的人是无法取得成功的.」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「最终让你难以忘怀的，并不是某个谁，而是当初为之倾心，不顾一切的自己。」</i></div><!-- QUOTE:END -->
