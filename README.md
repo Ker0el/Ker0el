@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「奈何一个人随着年龄增长，梦想便不复轻盈；他开始用双手掂量生活，更看重果实而非花朵」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「行动被评价和人格被评价完全是两码事。」</i></div><!-- QUOTE:END -->
