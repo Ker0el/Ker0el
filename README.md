@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「行动被评价和人格被评价完全是两码事。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我喜欢雨。因为它带来天空的味道。」</i></div><!-- QUOTE:END -->
