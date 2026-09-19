@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「也许我是想知道，是否有某样东西……没有我，就不会存在。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「他心中有愤怒么？有的，但他却从愤怒出发，向远处走去了。」</i></div><!-- QUOTE:END -->
