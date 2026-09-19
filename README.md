@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我喜欢雨。因为它带来天空的味道。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「愿你我不失此缘」</i></div><!-- QUOTE:END -->
