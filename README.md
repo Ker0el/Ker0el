@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「很温暖吧，温暖的双手不是为了伤害别人而存在的，真心想要守护的话就得学会温柔。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「也许我是想知道，是否有某样东西……没有我，就不会存在。」</i></div><!-- QUOTE:END -->
