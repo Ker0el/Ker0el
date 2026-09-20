@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「也有语言相通但互相无法理解的痛苦,重要的不是固执于一种观点,而是接纳对方.」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只要全家同舟共济，一起回到正路上也完全有可能。」</i></div><!-- QUOTE:END -->
