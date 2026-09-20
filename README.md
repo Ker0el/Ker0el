@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果把向我咨询的人比喻做迷途的羊羔，那么他们通常手中都拿着地图，却没去看。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「友情其实和爱情一样，很多的时候，距离才可以让彼此更懂得彼此。」</i></div><!-- QUOTE:END -->
