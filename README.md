@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「只要全家同舟共济，一起回到正路上也完全有可能。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「如果把向我咨询的人比喻做迷途的羊羔，那么他们通常手中都拿着地图，却没去看。」</i></div><!-- QUOTE:END -->
