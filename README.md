@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「他心中有愤怒么？有的，但他却从愤怒出发，向远处走去了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「也有语言相通但互相无法理解的痛苦,重要的不是固执于一种观点,而是接纳对方.」</i></div><!-- QUOTE:END -->
