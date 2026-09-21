@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不知不觉之中，我们正是被自己所守护的东西守护着。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「氛围和气氛是无法违抗的，人只能被迫采取违背本意的行动。」</i></div><!-- QUOTE:END -->
