@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我是绝对的开始的王，英雄中的英雄王，吉尔伽美什。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「那你那个要照顾她一生的承诺呢?」</i></div><!-- QUOTE:END -->
