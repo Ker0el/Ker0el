@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「只要功夫深，铁杵磨成绣花针」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「如果约会的人迟到了，会跑着去迎接吧。」</i></div><!-- QUOTE:END -->
