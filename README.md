@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我到底要以怎么样的速度生活才能与你再次相遇？」</i></div><!-- QUOTE:END -->
