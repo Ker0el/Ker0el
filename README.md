@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「面码没有为自己着想的时候，仁太一直在为面码着想啊。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「心之所愿，无所不成」</i></div><!-- QUOTE:END -->
