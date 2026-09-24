@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「旧的伤口又受伤了，比记忆中更疼。但贴上，就可以假装只发生了一次。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「解开它,试试的话也许能行,但是,不尝试的话就绝对办不到。」</i></div><!-- QUOTE:END -->
