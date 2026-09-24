@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人之所以活得累，是因为放不下架子，撕不开面子，解不开情节。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「他心中有愤怒么？有的，但他却从愤怒出发，向远处走去了。」</i></div><!-- QUOTE:END -->
