@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「解开它,试试的话也许能行,但是,不尝试的话就绝对办不到。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人之所以活得累，是因为放不下架子，撕不开面子，解不开情节。」</i></div><!-- QUOTE:END -->
