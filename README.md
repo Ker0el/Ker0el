@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「心之所愿，无所不成」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「旧的伤口又受伤了，比记忆中更疼。但贴上，就可以假装只发生了一次。」</i></div><!-- QUOTE:END -->
