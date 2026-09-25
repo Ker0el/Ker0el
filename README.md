@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「有形之物终将走向灭亡。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「掌中之物，未必在掌握之中。」</i></div><!-- QUOTE:END -->
