@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「他心中有愤怒么？有的，但他却从愤怒出发，向远处走去了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「第二，审判者无法经历死亡，因为会变得像人类。」</i></div><!-- QUOTE:END -->
