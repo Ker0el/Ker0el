@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「第二，审判者无法经历死亡，因为会变得像人类。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方??」</i></div><!-- QUOTE:END -->
