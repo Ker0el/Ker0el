@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方??」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「有形之物终将走向灭亡。」</i></div><!-- QUOTE:END -->
