@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「提高你的适应力，去接受这一切」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我在人生道路上迷失了方向。」</i></div><!-- QUOTE:END -->
