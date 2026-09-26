@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「你若要喜爱你自己的价值，你就得给世界创造价值」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人，是要靠忘掉回忆才能活下去的。但有些事，是绝对不能忘记的。只要活着，哪里都是天堂。」</i></div><!-- QUOTE:END -->
