@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「掌中之物，未必在掌握之中。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「你若要喜爱你自己的价值，你就得给世界创造价值」</i></div><!-- QUOTE:END -->
