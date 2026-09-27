@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「童年时的一场旅途是不是真的很短暂，距离缩短了，时间拉长了，我们迷失了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只希望能手牵手在太阳下散步。」</i></div><!-- QUOTE:END -->
