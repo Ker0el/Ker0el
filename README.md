@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「没有脚踏实地建立起来的东西，就无法形成精神和物质上的支撑。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「睡觉可以没有床，饭也可以吃不饱，但我不想低头的时候，是绝对不会低头的。」</i></div><!-- QUOTE:END -->
