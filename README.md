@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我在人生道路上迷失了方向。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「没有脚踏实地建立起来的东西，就无法形成精神和物质上的支撑。」</i></div><!-- QUOTE:END -->
