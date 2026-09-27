@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「睡觉可以没有床，饭也可以吃不饱，但我不想低头的时候，是绝对不会低头的。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「童年时的一场旅途是不是真的很短暂，距离缩短了，时间拉长了，我们迷失了。」</i></div><!-- QUOTE:END -->
