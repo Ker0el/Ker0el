@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「无论你如何渴望过去，那里都没有你的未来啊！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「这么多年过去，网友变成了朋友，朋友变成了网友。」</i></div><!-- QUOTE:END -->
