@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人活着最重要的事情，最大的价值就是恋爱。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「无论你如何渴望过去，那里都没有你的未来啊！」</i></div><!-- QUOTE:END -->
