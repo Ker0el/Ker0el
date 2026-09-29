@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「命运是掌握在自己手里的！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「世界看起来像是又复杂又荒唐的，但其本质意外地就像小孩的感观所感受到的那般单纯——空和白两个人，也是这样想的，是吧？」</i></div><!-- QUOTE:END -->
