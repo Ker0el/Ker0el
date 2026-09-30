@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「用善意的心情去理解别人的话,会让世界单纯美好容易.世界如此之大,我却能幸运地遇见一些人。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不要以为抹消过去，重新来过，即可发生什么改变。」</i></div><!-- QUOTE:END -->
