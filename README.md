@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不要以为抹消过去，重新来过，即可发生什么改变。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「越是拼了命投入，失败时的反作用力越大。」</i></div><!-- QUOTE:END -->
