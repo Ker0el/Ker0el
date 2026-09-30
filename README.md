@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果只是把世界分为清净和污浊两者，是不是就反而看不到真相了呢？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「雨为什么要下呢？如果是晴天就好了。」</i></div><!-- QUOTE:END -->
