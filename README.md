@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「越是拼了命投入，失败时的反作用力越大。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「如果只是把世界分为清净和污浊两者，是不是就反而看不到真相了呢？」</i></div><!-- QUOTE:END -->
