@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「雨为什么要下呢？如果是晴天就好了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「哈，所谓愿望能靠法宝就实现，也太廉价了吧？」</i></div><!-- QUOTE:END -->
