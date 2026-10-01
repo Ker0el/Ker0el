@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「哈，所谓愿望能靠法宝就实现，也太廉价了吧？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「邂逅本身，就是一种奇迹啊。」</i></div><!-- QUOTE:END -->
