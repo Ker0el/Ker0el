@@ -3,7 +3,7 @@
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=Ker0el&label=views&color=a0a0a0&style=flat" alt="views"/>
+  <img src="https://hits.sh/github.com/Ker0el.svg?label=views&color=a0a0a0" alt="views"/>
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 > :video_game: 独立游戏开发者 · 软件逆向工程师 · Web安全爱好者 · AIGC创作者
 >
-> :video_game: Indie Game Developer · Reverse Engineer · Web Security Enthusiast
+> :video_game: Indie Game Developer · Reverse Engineer · Web Security Enthusiast · AIGC Creator
 
 ---
 

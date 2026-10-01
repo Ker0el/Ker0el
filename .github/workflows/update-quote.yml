@@ -14,14 +14,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch quote
+      - name: Fetch quote and update README
         run: |
-          QUOTE=$(curl -s 'https://uapis.cn/api/v1/saying' | sed 's/.*"text":"\([^"]*\)".*/\1/')
-          echo "quote=$QUOTE" >> $GITHUB_ENV
+          python3 - <<'PY'
+          import json
+          import pathlib
+          import urllib.request
 
-      - name: Update README
-        run: |
-          sed -i "s|<!-- QUOTE:START -->.*<!-- QUOTE:END -->|<!-- QUOTE:START --><div align=\"center\"><i>「${{ env.quote }}」</i></div><!-- QUOTE:END -->|" README.md
+          req = urllib.request.Request(
+              'https://uapis.cn/api/v1/saying',
+              headers={'User-Agent': 'quote-bot'},
+          )
+          with urllib.request.urlopen(req, timeout=30) as resp:
+              quote = json.load(resp)['text'].strip()
+
+          start, end = '<!-- QUOTE:START -->', '<!-- QUOTE:END -->'
+          section = start + '<div align="center"><i>「' + quote + '」</i></div>' + end
+
+          path = pathlib.Path('README.md')
+          text = path.read_bytes().decode('utf-8')
+          i, j = text.find(start), text.find(end)
+          if i < 0 or j < 0:
+              raise SystemExit('quote markers not found in README.md')
+
+          path.write_bytes((text[:i] + section + text[j + len(end):]).encode('utf-8'))
+          print('quote updated:', quote)
+          PY
 
       - name: Commit & push
         run: |
