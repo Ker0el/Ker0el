@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「邂逅本身，就是一种奇迹啊。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「想再坚强一点，这样有什么不好，即使被敲诈，就算不务正业又怎么，我还能这样笑自己还想再走下去一点，肯定没有到尽头的白天。」</i></div><!-- QUOTE:END -->
