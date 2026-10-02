@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不请自来而又不告而别的事物，然而即使彼此之交汇过一次，即使微弱得不会被人注意，那也是能够支撑心灵的，重要的邂逅。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「明明只要打开门，明亮的世界就等在外头了啊」</i></div><!-- QUOTE:END -->
