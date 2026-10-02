@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「明明只要打开门，明亮的世界就等在外头了啊」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「讳疾忌医的人找不到良药」</i></div><!-- QUOTE:END -->
