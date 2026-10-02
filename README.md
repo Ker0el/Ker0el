@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我的灵魂一直在黑暗中奔跑，一直。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不要去等谁，所有的不期而遇都正在路上等你。」</i></div><!-- QUOTE:END -->
