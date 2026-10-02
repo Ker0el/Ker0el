@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「讳疾忌医的人找不到良药」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我的灵魂一直在黑暗中奔跑，一直。」</i></div><!-- QUOTE:END -->
