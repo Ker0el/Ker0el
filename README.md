@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「青春的羽翼，划破伤痛的记忆；昨日的泪水，激起心中的涟漪。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不清楚的事，却要决定一个结果的现实，我对此感到绝望。」</i></div><!-- QUOTE:END -->
