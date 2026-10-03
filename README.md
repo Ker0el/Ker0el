@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不要去等谁，所有的不期而遇都正在路上等你。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「大人的事情终究还是要长大才会懂」</i></div><!-- QUOTE:END -->
