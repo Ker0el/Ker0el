@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「大人的事情终究还是要长大才会懂」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「青春的羽翼，划破伤痛的记忆；昨日的泪水，激起心中的涟漪。」</i></div><!-- QUOTE:END -->
