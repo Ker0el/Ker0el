@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不清楚的事，却要决定一个结果的现实，我对此感到绝望。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「每一秒的天空都不一样。」</i></div><!-- QUOTE:END -->
