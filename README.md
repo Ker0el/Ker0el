@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「赌上性命和白白送死是两回事！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「站起来，站起来啊，给我站起来啊！」</i></div><!-- QUOTE:END -->
