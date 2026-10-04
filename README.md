@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「站起来，站起来啊，给我站起来啊！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「你不必原谅我...不管你今后的路想怎么走，我都一直深爱着你。」</i></div><!-- QUOTE:END -->
