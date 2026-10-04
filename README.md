@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「每一秒的天空都不一样。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「赌上性命和白白送死是两回事！」</i></div><!-- QUOTE:END -->
