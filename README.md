@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「你不必原谅我...不管你今后的路想怎么走，我都一直深爱着你。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「慕君之心，至死方休。」</i></div><!-- QUOTE:END -->
