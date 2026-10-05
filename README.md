@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「慕君之心，至死方休。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「“不能逃避”什么的只是强者的思考方式，强求这种事情的世界才是有问题的。」</i></div><!-- QUOTE:END -->
