@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人类，就是一直在重复过去的道路。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人不是为了世界而生存的,而是人所生存之地,才称之为世界。」</i></div><!-- QUOTE:END -->
