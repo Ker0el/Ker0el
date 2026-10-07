@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「骄傲的小孩子，总是需要敲打敲打的。而挫折，是成长最好的方式。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「即使无法掌握未来，也请不要忘了明天。」</i></div><!-- QUOTE:END -->
