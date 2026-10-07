@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「对于凌驾命运之上的人来说，信心是命运的主宰。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「骄傲的小孩子，总是需要敲打敲打的。而挫折，是成长最好的方式。」</i></div><!-- QUOTE:END -->
