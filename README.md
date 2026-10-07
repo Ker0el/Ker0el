@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人不是为了世界而生存的,而是人所生存之地,才称之为世界。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「对于凌驾命运之上的人来说，信心是命运的主宰。」</i></div><!-- QUOTE:END -->
