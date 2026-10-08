@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「真正的惩罚是会留在心和记忆里面的。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「没有谁比谁更不幸福，只有谁比谁更不知道幸福。」</i></div><!-- QUOTE:END -->
