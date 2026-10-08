@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「即使无法掌握未来，也请不要忘了明天。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「如果要伤害别人的感情才能实现的话，对那个人来说梦想就已经不能称之为梦想了。」</i></div><!-- QUOTE:END -->
