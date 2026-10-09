@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「一个寂寞的人被给予了思念就会显得更寂寞。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「知识好象砂石下面的泉水，越掘得深泉水越清」</i></div><!-- QUOTE:END -->
