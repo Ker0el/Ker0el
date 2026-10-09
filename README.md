@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「没有谁比谁更不幸福，只有谁比谁更不知道幸福。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「一个寂寞的人被给予了思念就会显得更寂寞。」</i></div><!-- QUOTE:END -->
