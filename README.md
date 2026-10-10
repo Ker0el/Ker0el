@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们所过的每个平凡的日常，也许就是连续发生的奇迹。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「没关系，由乃会保护小雪的。对吧，小雪~」</i></div><!-- QUOTE:END -->
