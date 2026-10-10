@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「越是得不到的东西，越加美丽。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们所过的每个平凡的日常，也许就是连续发生的奇迹。」</i></div><!-- QUOTE:END -->
