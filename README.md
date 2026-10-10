@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「没关系，由乃会保护小雪的。对吧，小雪~」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「就让我用这只手，将你那无聊的幻想杀得片甲不留。」</i></div><!-- QUOTE:END -->
