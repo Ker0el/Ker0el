@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「随着时间的流逝痛苦会变得淡薄，然而我并不想让时间来治愈我的痛苦，就算从痛苦中逃脱，忘记一切，得到的也只是停滞，无法前进。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「越是得不到的东西，越加美丽。」</i></div><!-- QUOTE:END -->
