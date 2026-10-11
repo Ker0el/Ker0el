@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「虽然迷茫与痛苦过，但也曾天真的笑过。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我虽然讨厌被嘲笑，但是不会停止说这件事。因为比起被嘲笑，我更讨厌说不出口。」</i></div><!-- QUOTE:END -->
