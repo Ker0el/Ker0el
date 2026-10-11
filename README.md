@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「就让我用这只手，将你那无聊的幻想杀得片甲不留。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「解开它,试试的话也许能行,但是,不尝试的话就绝对办不到。」</i></div><!-- QUOTE:END -->
