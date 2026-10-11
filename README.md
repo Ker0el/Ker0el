@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「解开它,试试的话也许能行,但是,不尝试的话就绝对办不到。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「虽然迷茫与痛苦过，但也曾天真的笑过。」</i></div><!-- QUOTE:END -->
