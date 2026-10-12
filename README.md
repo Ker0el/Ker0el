@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「竟敢愚弄本王，你以为这是新年福袋吗？！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「因为这一年来，他心里想的，眼里看的都是他。」</i></div><!-- QUOTE:END -->
