@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「因为这一年来，他心里想的，眼里看的都是他。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「诸恶莫作，众善奉行」</i></div><!-- QUOTE:END -->
