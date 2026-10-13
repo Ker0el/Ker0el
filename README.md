@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不可以窥看咨询者，这也是规则。如果对方觉得自己被发现了，就不会再写信来咨询了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「每当我看天的时候我就不喜欢在说话，每当我说话的时候却不敢在看天。」</i></div><!-- QUOTE:END -->
