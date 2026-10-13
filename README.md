@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我已经什么都没有了，没有才能，没有存在的理由，也没有活着的价值。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不可以窥看咨询者，这也是规则。如果对方觉得自己被发现了，就不会再写信来咨询了。」</i></div><!-- QUOTE:END -->
