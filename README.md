@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「每当我看天的时候我就不喜欢在说话，每当我说话的时候却不敢在看天。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「今天的风儿有点喧嚣」</i></div><!-- QUOTE:END -->
