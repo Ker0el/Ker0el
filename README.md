@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「今天的风儿有点喧嚣」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「这个世界,是无限的」</i></div><!-- QUOTE:END -->
