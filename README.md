@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「君子忧道不忧贫」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「突然之间，我还想再在这个世上多活几天。」</i></div><!-- QUOTE:END -->
