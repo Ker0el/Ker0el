@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「离景似是昨日，转眼却已经年。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人生最宝贵的不是你拥有的物质，而是陪伴在你身边的人。」</i></div><!-- QUOTE:END -->
