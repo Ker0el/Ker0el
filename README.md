@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人生最宝贵的不是你拥有的物质，而是陪伴在你身边的人。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我已经什么都没有了，没有才能，没有存在的理由，也没有活着的价值。」</i></div><!-- QUOTE:END -->
