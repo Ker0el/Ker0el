@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「因为欲望是任何人出生就有的，所以很好理解。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「离景似是昨日，转眼却已经年。」</i></div><!-- QUOTE:END -->
