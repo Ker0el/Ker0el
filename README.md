@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我已经什么都没有了，没有才能，没有存在的理由，也没有活着的价值。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「最近，开始喜欢用喜欢这个词了，这是什么现象呢。」</i></div><!-- QUOTE:END -->
