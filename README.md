@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「忘记本身就是一件不可能的事。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人类为什么互相依靠却又再次争吵。」</i></div><!-- QUOTE:END -->
