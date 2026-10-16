@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「最近，开始喜欢用喜欢这个词了，这是什么现象呢。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「故乡的云。上古的玉。随手的诗。十九岁的你。」</i></div><!-- QUOTE:END -->
