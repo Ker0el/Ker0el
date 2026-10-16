@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「故乡的云。上古的玉。随手的诗。十九岁的你。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「忘记本身就是一件不可能的事。」</i></div><!-- QUOTE:END -->
