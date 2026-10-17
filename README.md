@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果将梦想作为信仰,不放弃地追求下去,一定会梦想成真的。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「高中三年级的时候能想明白将来要什么的人，那是凤毛麟角。」</i></div><!-- QUOTE:END -->
