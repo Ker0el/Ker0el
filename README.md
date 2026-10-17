@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「高中三年级的时候能想明白将来要什么的人，那是凤毛麟角。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「如果我身边最重要的人始终要离开我，我宁愿一辈子从来都没有拥有过。」</i></div><!-- QUOTE:END -->
