@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人类为什么互相依靠却又再次争吵。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「是啊，温柔的世界就近在咫尺。即使为虚伪的记忆所玷污，却更显出透明的琉璃色彩，一直 永远 永远···」</i></div><!-- QUOTE:END -->
