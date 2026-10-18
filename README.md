@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「Nothing is impossible to a willing heart.」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。」</i></div><!-- QUOTE:END -->
