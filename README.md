@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果我身边最重要的人始终要离开我，我宁愿一辈子从来都没有拥有过。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人生就是一个挣扎的过程。」</i></div><!-- QUOTE:END -->
