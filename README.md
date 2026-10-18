@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们仰望著同一片天空却看著不同的地方」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「Nothing is impossible to a willing heart.」</i></div><!-- QUOTE:END -->
