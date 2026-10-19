@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「君子，小人，皆在一念思量。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「与其费尽周折绕过去，不如勇敢的地攀越，或许这会铸就你人生的高点。」</i></div><!-- QUOTE:END -->
