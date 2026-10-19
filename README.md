@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「被逼成的王，孤独的王，温柔的王」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「君子，小人，皆在一念思量。」</i></div><!-- QUOTE:END -->
