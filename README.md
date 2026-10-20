@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「幸运不是寻找出对方的漏洞，造出契机才是真正的幸运。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我有预感事情会变得很有趣呢。」</i></div><!-- QUOTE:END -->
