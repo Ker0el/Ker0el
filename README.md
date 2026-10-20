@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「与其费尽周折绕过去，不如勇敢的地攀越，或许这会铸就你人生的高点。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「就算是平淡的人生道路，大家也是一边做着各种决定，一边带着不安前行的吧。」</i></div><!-- QUOTE:END -->
