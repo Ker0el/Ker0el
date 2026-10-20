@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「说好了大伙儿要一起笑着再见，你在这里死了不就没意义了吗！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「幸运不是寻找出对方的漏洞，造出契机才是真正的幸运。」</i></div><!-- QUOTE:END -->
