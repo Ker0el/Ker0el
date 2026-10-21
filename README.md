@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我有预感事情会变得很有趣呢。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「后悔是一种耗费精神的情绪，后悔是比损失更大的损失，比错误更大的错误，所以不要后悔。」</i></div><!-- QUOTE:END -->
