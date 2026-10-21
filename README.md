@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「有时我沉默，不是不快乐，只是想把心净空。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「当一切都随风而逝的时候，那些特别的瞬间都成了永恒。」</i></div><!-- QUOTE:END -->
