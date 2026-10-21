@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「为他人幸福而撒的谎，就不再是谎言。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「有时我沉默，不是不快乐，只是想把心净空。」</i></div><!-- QUOTE:END -->
