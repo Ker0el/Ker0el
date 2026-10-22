@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「当一切都随风而逝的时候，那些特别的瞬间都成了永恒。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们必须在失败中寻找胜利，在绝望中寻求希望。」</i></div><!-- QUOTE:END -->
