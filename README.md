@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不管输赢，打完不许记仇啊。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我一直以为人是慢慢变老的，其实不是，人是一瞬间变老的。」</i></div><!-- QUOTE:END -->
