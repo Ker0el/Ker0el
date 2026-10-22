@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们必须在失败中寻找胜利，在绝望中寻求希望。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「不管输赢，打完不许记仇啊。」</i></div><!-- QUOTE:END -->
