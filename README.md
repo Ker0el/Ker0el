@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「如果基拉被抓住了，那他就是邪恶，如果基拉统治了世界，那他就是正义。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「嗯，一个人也要加油，我是坚强的孩子。」</i></div><!-- QUOTE:END -->
