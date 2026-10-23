@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「因为他和自己重叠了，被明明不带感情却假意笑脸相迎，和我自己。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「如果基拉被抓住了，那他就是邪恶，如果基拉统治了世界，那他就是正义。」</i></div><!-- QUOTE:END -->
