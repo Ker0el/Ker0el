@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「若不想输给任何人，就得先认清自己的弱小！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「因为他和自己重叠了，被明明不带感情却假意笑脸相迎，和我自己。」</i></div><!-- QUOTE:END -->
