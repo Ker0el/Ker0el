@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们将在这个小小的城镇中相互扶持，共同生活下去。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「若不想输给任何人，就得先认清自己的弱小！」</i></div><!-- QUOTE:END -->
