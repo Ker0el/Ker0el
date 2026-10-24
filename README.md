@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「伟大的人不是生下来就伟大的，而是在成长过程中显示其伟大的」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「要拿去的东西只有记忆和作为职人的自尊，仅此而已。」</i></div><!-- QUOTE:END -->
