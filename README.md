@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「要拿去的东西只有记忆和作为职人的自尊，仅此而已。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人必将诞生，终将死去。」</i></div><!-- QUOTE:END -->
