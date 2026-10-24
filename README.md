@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「嗯，一个人也要加油，我是坚强的孩子。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我在人生的道路上迷失了。」</i></div><!-- QUOTE:END -->
