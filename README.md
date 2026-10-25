@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不管输赢，打完不许记仇啊。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「即使再怎么勉强、再怎么不自量力、再怎么厚颜无耻，也要用自己的双手，保护最珍惜的东西」</i></div><!-- QUOTE:END -->
