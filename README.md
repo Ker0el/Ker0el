@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「真正的痛是连痛都不能说得痛。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「当有人从心底认同你的时候，那个人对你来说就是最重要的人。」</i></div><!-- QUOTE:END -->
