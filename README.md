@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不管多艰辛，多悲伤，都是有不可忘却的事情啊。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「就算明白得知真相后会让自己变得不幸，但人们还是会想要去追寻呢……」</i></div><!-- QUOTE:END -->
