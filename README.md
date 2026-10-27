@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人类的敌人，最终还是人类。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「活着本来没有什么意义 但是只要活着 就可以找到 有趣的事情。就像你发现了花 我又发现了你一样」</i></div><!-- QUOTE:END -->
