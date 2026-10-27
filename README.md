@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「你能明白无法重返天空的星星的悲伤吗？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人类的敌人，最终还是人类。」</i></div><!-- QUOTE:END -->
