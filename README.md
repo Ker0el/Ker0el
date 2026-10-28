@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「魔非魔，道非道，善恶在人心。欲非欲，情非情，姻缘由天定。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「能与她在夏天里相会真是太好了。」</i></div><!-- QUOTE:END -->
