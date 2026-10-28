@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「小时候，天空分明触手可及，于是喜欢上雨，因它带来天空的气味.经常在下雨的早晨，不再换乘地铁，转身走出车站」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「魔非魔，道非道，善恶在人心。欲非欲，情非情，姻缘由天定。」</i></div><!-- QUOTE:END -->
