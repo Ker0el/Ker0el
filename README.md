@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「已经走到尽头的东西，重生也不过是再一次的消亡。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「与恶魔最接近的东西，是人类。」</i></div><!-- QUOTE:END -->
