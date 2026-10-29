@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「与恶魔最接近的东西，是人类。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「无论是丢下还是被丢下，都是一样痛苦的。」</i></div><!-- QUOTE:END -->
