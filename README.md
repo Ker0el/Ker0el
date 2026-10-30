@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「纵使喝醉酒满嘴胡话，也有一句好想你发自肺腑」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人生不只是离别，邂逅使人生更精彩」</i></div><!-- QUOTE:END -->
