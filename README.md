@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「自己的过去会被当做笑话或者捏他的形式，被他人随随便便的共有化。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「纵使喝醉酒满嘴胡话，也有一句好想你发自肺腑」</i></div><!-- QUOTE:END -->
