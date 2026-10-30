@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人生不只是离别，邂逅使人生更精彩」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「只有弱者才喜欢扎堆，问题是绝大部分人都是弱者。」</i></div><!-- QUOTE:END -->
