@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「羁绊是那不可切断的深切联系。即使分离，心与心也紧紧的连在一起。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们只能在漫长的黑暗里，安静孕育着短暂而灿烂的开放时刻。」</i></div><!-- QUOTE:END -->
