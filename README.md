@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我喜欢樱花，可不知为什么，凋零时反而会有如释重负的感觉。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「神秘在比其更高的神秘面前，会失去效果。」</i></div><!-- QUOTE:END -->
