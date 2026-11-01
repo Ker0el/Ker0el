@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们只能在漫长的黑暗里，安静孕育着短暂而灿烂的开放时刻。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「今天的风儿有点喧嚣」</i></div><!-- QUOTE:END -->
