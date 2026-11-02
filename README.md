@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「神秘在比其更高的神秘面前，会失去效果。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。」</i></div><!-- QUOTE:END -->
