@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「当一切都随风而逝的时候，那些特别的瞬间都成了永恒。」</i></div><!-- QUOTE:END -->
