@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「随随便便的过来，随随便便的离去，但是，只要相互接触了一次，即使微弱得不被人注意，那也是能够支撑心灵的重要的邂逅。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「有一种病很容易恶化，它叫“你想太多”。」</i></div><!-- QUOTE:END -->
