@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「觉得自己可怜而哭,是小孩子的泪水,就像在希望有谁能为自己做什么.」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「随随便便的过来，随随便便的离去，但是，只要相互接触了一次，即使微弱得不被人注意，那也是能够支撑心灵的重要的邂逅。」</i></div><!-- QUOTE:END -->
