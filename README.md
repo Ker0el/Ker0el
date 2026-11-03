@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「当一切都随风而逝的时候，那些特别的瞬间都成了永恒。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「觉得自己可怜而哭,是小孩子的泪水,就像在希望有谁能为自己做什么.」</i></div><!-- QUOTE:END -->
