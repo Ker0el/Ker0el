@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「有一种病很容易恶化，它叫“你想太多”。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「很多时候，你骄傲的以为你已经掌控了命运，其实，一直以来，你根本还是被命运掌控着。」</i></div><!-- QUOTE:END -->
