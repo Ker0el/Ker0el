@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「低头不是认输，是要看清自己的路；昂头不是骄傲，是要看清自己的天空。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「在这个信仰即将崩溃的时刻，我要坚守最后的信念。」</i></div><!-- QUOTE:END -->
