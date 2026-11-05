@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「流浪去吧，总会在世界的一角找到愿意懂你的人。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「小时侯，幸福是很简单的事；长大了，简单是很幸福的事！」</i></div><!-- QUOTE:END -->
