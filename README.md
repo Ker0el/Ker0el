@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「在这个信仰即将崩溃的时刻，我要坚守最后的信念。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「就像所有的游戏都有结局一样 ,故事也有结局」</i></div><!-- QUOTE:END -->
