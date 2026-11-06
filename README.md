@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「安心地睡吧，就算你将遗忘一切，我也会永远记得。我将为你而生、为你而死。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我早就闭上了双眼，我的目的只在于黑暗之中。」</i></div><!-- QUOTE:END -->
