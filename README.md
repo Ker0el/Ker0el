@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「在我安定下来，找到一个合适的伴侣之前，我得先找到我自己。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「安心地睡吧，就算你将遗忘一切，我也会永远记得。我将为你而生、为你而死。」</i></div><!-- QUOTE:END -->
