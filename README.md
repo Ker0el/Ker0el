@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「小时侯，幸福是很简单的事；长大了，简单是很幸福的事！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「在我安定下来，找到一个合适的伴侣之前，我得先找到我自己。」</i></div><!-- QUOTE:END -->
