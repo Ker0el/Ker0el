@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「弱小和无知不是生存的障碍，傲慢才是。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「世上大多数人都穿着这样的褴褛。但是谁也不觉得害羞，因为这是他们靠自己双手的劳动得到的最好的衣服。」</i></div><!-- QUOTE:END -->
