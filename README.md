@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「战争就是这样，双方都认为自己是好的一方。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「笛卡尔说过，无法下决定的人，要么是欲望太大，要么是悟性不足。」</i></div><!-- QUOTE:END -->
