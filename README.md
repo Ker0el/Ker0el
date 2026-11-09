@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「请不要一厢情愿地下结论。任何事情，不挑战一下是不知道结果的，对吧？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「战争就是这样，双方都认为自己是好的一方。」</i></div><!-- QUOTE:END -->
