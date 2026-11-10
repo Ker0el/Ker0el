@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「笛卡尔说过，无法下决定的人，要么是欲望太大，要么是悟性不足。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「用玲生命为代价的东西根本就不存在。」</i></div><!-- QUOTE:END -->
