@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「虽然不知道可能会走到哪一步，但是我一定会坚持下去的。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「没有任何回忆，即使遗忘也好的。」</i></div><!-- QUOTE:END -->
