@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「一个受过伤的人，他的内心是否就像这秋日里的树木一般，即使尚有残存的绿色，却也终将在秋风中枯黄凋零？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「获得成功的人，肯定在人生某个阶段做出了一个重大的决断。」</i></div><!-- QUOTE:END -->
