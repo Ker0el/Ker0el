@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「获得成功的人，肯定在人生某个阶段做出了一个重大的决断。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「生命是短暂的，在它结束以前，就让我们相互依偎。」</i></div><!-- QUOTE:END -->
