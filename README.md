@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我仍然很差劲啊。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「有些事，想多了头疼，想通了心疼。」</i></div><!-- QUOTE:END -->
