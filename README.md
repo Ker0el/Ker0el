@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「生命是短暂的，在它结束以前，就让我们相互依偎。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我仍然很差劲啊。」</i></div><!-- QUOTE:END -->
