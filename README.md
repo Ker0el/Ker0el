@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「最终，我们会剩下无穷无际的孤独！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们曾经那么盼望的未来，正以惊人的速度流逝着。现在，只希望可以慢一点，偶尔停下来看看路边的风景。」</i></div><!-- QUOTE:END -->
