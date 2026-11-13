@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「不经过琢磨，宝石也不会发光」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「最终，我们会剩下无穷无际的孤独！」</i></div><!-- QUOTE:END -->
