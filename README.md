@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「虽然不知道是明天、后天，亦或是数十年后，终点总有一天肯定会降临。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「来到这个世界上，即使是天使都会做坏事。」</i></div><!-- QUOTE:END -->
