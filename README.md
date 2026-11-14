@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「奇迹只会降临在不言放弃的人身上，不要小看奇迹！」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「虽然不知道是明天、后天，亦或是数十年后，终点总有一天肯定会降临。」</i></div><!-- QUOTE:END -->
