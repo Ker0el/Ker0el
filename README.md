@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「因果循环的纺车，辗转织出的红线。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们的相遇是很多年以前就已经注定的命运。」</i></div><!-- QUOTE:END -->
