@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「孤独的人有他们自己的沼泽」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「因果循环的纺车，辗转织出的红线。」</i></div><!-- QUOTE:END -->
