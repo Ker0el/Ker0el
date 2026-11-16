@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我们的相遇是很多年以前就已经注定的命运。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我们即使发了一千次短信，心与心的距离大概也只靠近了一厘米。」</i></div><!-- QUOTE:END -->
