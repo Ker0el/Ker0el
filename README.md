@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「给我一个电话亭，我要拯救地球。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我对普通的人类没有兴趣，你们只要是有外星人、未来人、异世界人、超能力者, 就尽管来找我吧！以上！」</i></div><!-- QUOTE:END -->
