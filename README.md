@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我曾发誓要保护他，成为他的剑，即使没有契约，这份誓约也不会改变。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「世界上每一个人都有属于自己的影子。」</i></div><!-- QUOTE:END -->
