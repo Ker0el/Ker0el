@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「世界上每一个人都有属于自己的影子。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「但是现实与想象完全不同，即使现在，我也从来没有清晰地认识到自己是大人。」</i></div><!-- QUOTE:END -->
