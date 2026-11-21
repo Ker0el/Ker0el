@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人这种东西，除了为了永不满足的欲望追求新的刺激之外，也是重视稀少价值之物的奇怪生物。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「知识不会给予人幸福。」</i></div><!-- QUOTE:END -->
