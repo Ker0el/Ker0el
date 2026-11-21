@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「知识不会给予人幸福。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「但是，这一次你将不再孤独。」</i></div><!-- QUOTE:END -->
