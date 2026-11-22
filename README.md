@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「愿你我不失此缘」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「救救我啊奥特曼，哪怕你只能撑三分钟⋯⋯」</i></div><!-- QUOTE:END -->
