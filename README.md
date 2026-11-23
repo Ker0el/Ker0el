@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「所谓孤零零指的不是周围的人口密度，而是指个人的精神层面了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「愚痴的人，一直想要别人了解他。有智慧的人，却努力地了解自己」</i></div><!-- QUOTE:END -->
