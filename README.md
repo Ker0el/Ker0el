@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「十九岁以前把这辈子没机会看的书看了，十九岁以后把以前没机会看的电视补上。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「所谓孤零零指的不是周围的人口密度，而是指个人的精神层面了。」</i></div><!-- QUOTE:END -->
