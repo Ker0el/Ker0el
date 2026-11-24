@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「因为总是回头，所以哪里也去不了……」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「世上本没有绝对的正义，总认为自己永远是对的一方，偏执与傲慢，能利用的绝不错过。」</i></div><!-- QUOTE:END -->
