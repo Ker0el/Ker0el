@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「愚痴的人，一直想要别人了解他。有智慧的人，却努力地了解自己」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「因为总是回头，所以哪里也去不了……」</i></div><!-- QUOTE:END -->
