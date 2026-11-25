@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「再没有什么比幸福的回忆更妨碍幸福的了。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「到底该怎么做，你才会重新喜欢我呢？」</i></div><!-- QUOTE:END -->
