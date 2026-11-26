@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「到底该怎么做，你才会重新喜欢我呢？」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「就像自己是一个怎么都做不了的孩子, 要承认是非常难和可怕的。」</i></div><!-- QUOTE:END -->
