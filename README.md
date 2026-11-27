@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「我果然是化不可能为可能的男人。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「人看不到现实的本来面目。只能看到想看的、想拥有的现实。」</i></div><!-- QUOTE:END -->
