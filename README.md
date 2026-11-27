@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「爱，不是寻找一个完美的人，而是学会用完美的眼光，欣赏那个并不完美的人。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「我果然是化不可能为可能的男人。」</i></div><!-- QUOTE:END -->
