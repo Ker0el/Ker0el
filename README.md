@@ -30,4 +30,4 @@
 
 ---
 
-<!-- QUOTE:START --><div align="center"><i>「人看不到现实的本来面目。只能看到想看的、想拥有的现实。」</i></div><!-- QUOTE:END -->
+<!-- QUOTE:START --><div align="center"><i>「后悔是一种耗费精神的情绪，后悔是比损失更大的损失，比错误更大的错误，所以不要后悔。」</i></div><!-- QUOTE:END -->
